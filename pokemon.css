@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:1200px;
+    vertical-align:top;
+}
+#sprites{
+    width:900px;
+    display:inline-block;
+}
+#pokedex{
+    width:275px;
+    height:500px;
+    margin-top:20px;
+    line-height:40px;
+    display:inline-block;
+    border:10px solid darkred;
+    position: fixed;
+    padding:20px;
+}
